@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
-<h3 align="center">A passionate learner and wanna be Software Engineer from India.</h3>
+<h3 align="center">A passionate learner and a Software Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-0208&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-0208" /> </p>
 
-- 🌱 I’m currently learning and enhancing my skills on **Python, Flask, Django, Mongodb**
+- 🌱 I’m currently learning and enhancing my skills on **Python, Flask, Django, Mongodb and Automation Testing**
 
 - 📫 How to reach me: **akshatsha9630@gmail.com**
 
