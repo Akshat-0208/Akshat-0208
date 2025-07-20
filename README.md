@@ -7,10 +7,12 @@
 
 - 📫 How to reach me: **akshatsha9630@gmail.com**
 
+- Please visit my **[resume](https://drive.google.com/file/d/19WfLLw--jkY8fCaknq6wWjlUg-6bvffR/view?usp=sharing)** for more details
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshat24532801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshat24532801" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshat-sharma-05978623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshat-sharma-05978623a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshat-sharma-05978623a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshat-sharma-05978623a/" height="30" width="40" /></a>
 <a href="https://instagram.com/akshat_802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat_802" height="30" width="40" /></a>
 </p>
 
